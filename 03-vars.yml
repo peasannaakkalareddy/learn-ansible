@@ -1,4 +1,4 @@
-- name: Demo s.kfhsdkfhsakf on Play Level Variables
+- name: Demo on Play Level Variables
   hosts: all
   vars:
     URL: play.example.com
