@@ -1,0 +1,4 @@
+-nama: Demo on roles
+hosts: all
+roles:
+  -sample
